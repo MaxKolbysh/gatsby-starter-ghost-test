@@ -51,7 +51,9 @@ const DefaultLayout = ({ data, children, bodyClass, isHome }) => {
                                     { site.facebook && <a href={ facebookUrl } className="site-nav-item" target="_blank" rel="noopener noreferrer"><img className="site-nav-icon" src="/images/icons/facebook.svg" alt="Facebook" /></a>}
                                     <a className="site-nav-item" href={ `https://feedly.com/i/subscription/feed/${config.siteUrl}/rss/` } target="_blank" rel="noopener noreferrer"><img className="site-nav-icon" src="/images/icons/rss.svg" alt="RSS Feed" /></a>
                                 </div>
+
                             </div>
+                            <div className="container-fluid">Black Lives Matter.</div>
                             { isHome ?
                                 <div className="site-banner">
                                     <h1 className="site-banner-title">{site.title}</h1>

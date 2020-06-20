@@ -10,7 +10,7 @@ import { MetaData } from '../components/common/meta'
 * Single post view (/:slug)
 *
 * This file renders a single post and loads all the content.
-*
+*test
 */
 const Post = ({ data, location }) => {
     const post = data.ghostPost
