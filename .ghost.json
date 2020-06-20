@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://renkostlab.co.uk",
-    "contentApiKey": "a156c14c70d28d20780b004d7d"
+    "apiUrl": "https://cms.jazzin.ru",
+    "contentApiKey": "6ad2d0312139a918ae4cf92ccf"
   },
   "production": {
-    "apiUrl": "https://renkostlab.co.uk",
-    "contentApiKey": "a156c14c70d28d20780b004d7d"
+    "apiUrl": "https://cms.jazzin.ru",
+    "contentApiKey": "6ad2d0312139a918ae4cf92ccf"
   }
 }
